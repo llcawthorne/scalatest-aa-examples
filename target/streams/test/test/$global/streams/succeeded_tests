@@ -1,0 +1,13 @@
+#Successful Tests
+#Mon Sep 25 08:21:53 EDT 2017
+property.DropAllButFirstSpec_PizzaToppings=1506342112787
+mocks.LoginServiceTests=1506342113150
+property.DropAllButFirstSpec_IntLists=1506342112787
+property.DropAllButFirstSpec_IntLists-0=1506342112980
+property.IncreaseRandomlySpec-0=1506342112961
+pizza.PizzaTests=1506342113030
+pizza.PizzaSpec=1506342113042
+example.HelloSpec=1506342113019
+property.DropFirstMatchTests=1506342113020
+property.IncreaseRandomlySpec=1506342112787
+property.DropAllButFirstSpec_PizzaToppings-0=1506342112968

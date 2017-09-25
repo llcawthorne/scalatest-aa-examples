@@ -1,0 +1,341 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.3
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+15 items
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\example\Greeting.class
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\example\Hello$.class
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\example\Hello$delayedInit$body.class
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\example\Hello.class
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\mocks\LoginService.class
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\mocks\RealLoginService.class
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\mocks\User$.class
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\mocks\User.class
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\pizza\Pizza.class
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\pizza\Topping$.class
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\pizza\Topping.class
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\property\ListUtils$.class
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\property\ListUtils.class
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\property\MathUtils$.class
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\property\MathUtils.class
+binary dependencies:
+12 items
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> C:\Users\LCawthorne\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.3.jar
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> C:\Users\LCawthorne\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.3.jar
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> C:\Users\LCawthorne\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.3.jar
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> C:\Users\LCawthorne\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.3.jar
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> C:\Users\LCawthorne\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.3.jar
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> C:\Users\LCawthorne\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.3.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+15 items
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> example.Greeting
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> example.Hello
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> example.Hello$
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> example.Hello$delayedInit$body
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> mocks.LoginService
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> mocks.RealLoginService
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> mocks.User
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> mocks.User$
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> pizza.Pizza
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> pizza.Topping
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> pizza.Topping$
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> property.ListUtils
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> property.ListUtils$
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> property.MathUtils
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> property.MathUtils$
+used names:
+183 items
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> <init>
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> Any
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> AnyRef
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> App
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> Greeting
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> Hello
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> Object
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> Predef
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> String
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> Unit
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> example
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> greeting
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> println
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> scala
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> &&
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> <init>
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> ==
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> ???
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> A
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> AbstractFunction1
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> Any
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> AnyRef
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> Boolean
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> IndexOutOfBoundsException
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> Int
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> Iterator
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> LoginService
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> None
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> Nothing
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> Object
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> Option
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> Predef
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> Product
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> RealLoginService
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> ScalaRunTime
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> Serializable
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> Some
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> String
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> T
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> T0
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> User
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> _hashCode
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> _root_
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> _toString
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> asInstanceOf
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> eq
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> isInstanceOf
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> mocks
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> name
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> package
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> runtime
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> scala
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> toString
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> typedProductIterator
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> ||
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> +=
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> -=
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> <init>
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> AnyRef
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> ArrayBuffer
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> Exception
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> List
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> Object
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> Pizza
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> String
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> Topping
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> Unit
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> collection
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> mutable
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> package
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> pizza
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> scala
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> t
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> toList
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> toppings
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> &&
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> <init>
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> ==
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> A
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> AbstractFunction1
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> Any
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> AnyRef
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> Boolean
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> IndexOutOfBoundsException
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> Int
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> Iterator
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> None
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> Nothing
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> Object
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> Option
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> Predef
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> Product
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> ScalaRunTime
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> Serializable
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> Some
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> String
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> T
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> T0
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> Topping
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> _hashCode
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> _root_
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> _toString
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> asInstanceOf
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> eq
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> isInstanceOf
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> name
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> package
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> pizza
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> runtime
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> scala
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> toString
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> typedProductIterator
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> ||
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> +
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> ++
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> ::
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> <
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> <init>
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> ==
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> A
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> Any
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> AnyRef
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> B
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> Boolean
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> CanBuildFrom
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> Coll
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> GenTraversableOnce
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> Int
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> List
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> ListUtils
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> MatchError
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> Nil
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> Nothing
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> Object
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> Seq
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> T0
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> T1
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> T2
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> That
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> Tuple2
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> _1
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> _2
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> a
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> asInstanceOf
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> b
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> canBuildFrom
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> collection
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> dropAllButFirst
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> dropee
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> foundCount
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> head
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> immutable
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> index
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> indexOf
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> isInstanceOf
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> list
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> ls
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> ne
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> package
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> property
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> scala
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> splitAt
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> tail
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> unchecked
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> value
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> x
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> xs
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> +
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> <init>
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> AnyRef
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> Int
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> Long
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> MathUtils
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> Object
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> Random
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> getRandomIntFrom1To100
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> i
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> nextInt
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> property
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> randomNum
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> scala
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> toLong
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> util
+product stamps:
+15 items
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\example\Greeting.class -> lastModified(1506179227332)
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\example\Hello$.class -> lastModified(1506179227330)
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\example\Hello$delayedInit$body.class -> lastModified(1506179227334)
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\example\Hello.class -> lastModified(1506179227328)
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\mocks\LoginService.class -> lastModified(1506179227339)
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\mocks\RealLoginService.class -> lastModified(1506179227341)
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\mocks\User$.class -> lastModified(1506179227337)
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\mocks\User.class -> lastModified(1506179227335)
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\pizza\Pizza.class -> lastModified(1506179227342)
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\pizza\Topping$.class -> lastModified(1506179227346)
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\pizza\Topping.class -> lastModified(1506179227344)
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\property\ListUtils$.class -> lastModified(1506180309811)
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\property\ListUtils.class -> lastModified(1506180309809)
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\property\MathUtils$.class -> lastModified(1506180309819)
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\target\scala-2.12\classes\property\MathUtils.class -> lastModified(1506180309817)
+source stamps:
+6 items
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> hash(434be3e365e629dcece3ec38ee265a6694dce080)
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> hash(1346f55f45059b9030f57933edece25645799343)
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> hash(1b68aa8ccaf83436e5311d0d5e3b00c23b9727a3)
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> hash(5b161ef0b4a7097a22ca7866e62b3a5e2ed85e4b)
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> hash(fd7ac92062cd9f33e7382494327b82fdb946d18f)
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> hash(e50a107c8783a28a624d345f38e4ad3afd5dcce7)
+binary stamps:
+2 items
+C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar -> lastModified(1475250054015)
+C:\Users\LCawthorne\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.3.jar -> lastModified(1504043574000)
+class names:
+2 items
+C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar -> java.lang.Object
+C:\Users\LCawthorne\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.3.jar -> scala.util.Random
+internal apis:
+6 items
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwjLEYfgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwzjmjzXQABm5vdGlmeXNxAH4ADE+C1790AAR3YWl0c3EAfgAMh5NG63QADSRhc0luc3RhbmNlT2ZzcQB+AAzhuQyfdAAGZXF1YWxzc3EAfgAM48FmenQACEdyZWV0aW5nc3EAfgAMoIraQXQADGFzSW5zdGFuY2VPZnNxAH4ADCuT8850AA5leGVjdXRpb25TdGFydHNxAH4ADGuZ+vF0AAxzeW5jaHJvbml6ZWRzcQB+AAzF7VuudAANJGlzSW5zdGFuY2VPZnNxAH4ADPbzUtZ0AARtYWluc3EAfgAMozUZDHQACW5vdGlmeUFsbHNxAH4ADNH/h9V0AAxpc0luc3RhbmNlT2ZzcQB+AAwDYz9OdAACPT1zcQB+AAxSKIpQdAAFY2xvbmVzcQB+AAztXHYFdAAFSGVsbG9zcQB+AAw8P331dAAGJGluaXQkc3EAfgAMvZb4yHQACGdyZWV0aW5nc3EAfgAMZZbnFXQACHRvU3RyaW5nc3EAfgAMuYQM/3QABGFyZ3NzcQB+AAyyxCQCdAACIT1zcQB+AAzSgWZrdAAIZ2V0Q2xhc3NzcQB+AAx92kbTdAACbmVzcQB+AAy41tIPdAACZXFzcQB+AAyMwfYzdAALZGVsYXllZEluaXRzcQB+AAxfYvCedAACIyNzcQB+AAxhKaybdAAIZmluYWxpemVzcQB+AAwCq/Y0dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBNeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAANZXhhbXBsZS5IZWxsb3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZ3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBNTAAJaW5oZXJpdGVkcQB+AE1MAAdwYXJlbnRzcQB+AE14cQB+AGxzcQB+AGd1cQB+AEgAAAAAc3EAfgBndXEAfgBIAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBOcQB+AFd1cQB+AFgAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgB2eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGt0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Aa3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AkHNxAH4AWgBxAH4AIXVxAH4AXQAAAABzcQB+AIN0AARVbml0cQB+AIl1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB2eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBgdAAFUGxhaW5xAH4AM3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AhFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Aa3NxAH4Ag3QABUFycmF5cQB+AIl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Ag3QABlN0cmluZ3NxAH4Ah3NxAH4AinVxAH4AjQAAAANzcQB+AI90AARqYXZhc3EAfgCPdAAEbGFuZ3EAfgCUc3EAfgBndXEAfgCrAAAABXNxAH4Ag3QAA0FwcHEAfgCJc3EAfgCDdAALRGVsYXllZEluaXRxAH4AiXNxAH4Ag3QACEdyZWV0aW5nc3EAfgCHc3EAfgCKdXEAfgCNAAAAAnNxAH4Aj3QAB2V4YW1wbGVxAH4AlHNxAH4Ag3QABk9iamVjdHEAfgCvc3EAfgCDdAADQW55cQB+AIlzcQB+AEpxAH4AV3VxAH4AWAAAAABzcQB+AFoBdAAQZXhhbXBsZS5HcmVldGluZ3VxAH4AXQAAAAB+cQB+AF90AAVUcmFpdHVxAH4AYwAAAABzcQB+AGdxAH4AbXNxAH4AZ3NxAH4Ab3NxAH4AZ3VxAH4ASAAAAABzcQB+AGd1cQB+AEgAAAAAc3EAfgBndXEAfgCrAAAAAnNxAH4Ag3EAfgDEc3EAfgCHc3EAfgCKdXEAfgCNAAAAA3NxAH4Aj3EAfgCzc3EAfgCPcQB+ALVxAH4AlHNxAH4Ag3EAfgDGc3EAfgCHc3EAfgCKdXEAfgCNAAAAAnNxAH4Aj3EAfgCScQB+AJR1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdleGFtcGxlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFer0cRlnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFNDOlxVc2Vyc1xMQ2F3dGhvcm5lXERvd25sb2Fkc1xzY2FsYVxzY2FsYXRlc3QtYWEtZXhhbXBsZXNcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFENL4+Nl5inc7OPsOO4mWmaU3OCA
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwCLgd9gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAhc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwAqOwW3QABm5vdGlmeXNxAH4ADA8IGQN0AARuYW1lc3EAfgAMzOz5xXQABHdhaXRzcQB+AAzjbvlEdAANJGFzSW5zdGFuY2VPZnNxAH4ADLiKolh0AAxwcm9kdWN0QXJpdHlzcQB+AAwAuy7IdAAGZXF1YWxzc3EAfgAM3uKcmnQADGFzSW5zdGFuY2VPZnNxAH4ADAqcF7p0AAxzeW5jaHJvbml6ZWRzcQB+AAw+UPuWdAANJGlzSW5zdGFuY2VPZnNxAH4ADMb2dFN0ABBSZWFsTG9naW5TZXJ2aWNlc3EAfgAM/NFOznQACGNhbkVxdWFsc3EAfgAMnWN9BXQADXByb2R1Y3RQcmVmaXhzcQB+AAzx9kD5dAAJbm90aWZ5QWxsc3EAfgAMk0hPqHQADGlzSW5zdGFuY2VPZnNxAH4ADJ5h/P10AAY8aW5pdD5zcQB+AAw2z01LdAACPT1zcQB+AAwVHwpYdAAFY2xvbmVzcQB+AAxCiS4LdAAGJGluaXQkc3EAfgAMFp0UP3QABFVzZXJzcQB+AAw9v3Y3dAAMTG9naW5TZXJ2aWNlc3EAfgAMcYqXw3QABGNvcHlzcQB+AAyRtISpdAAIdG9TdHJpbmdzcQB+AAwleTZWdAACIT1zcQB+AAyKo+1sdAAIZ2V0Q2xhc3NzcQB+AAwwoNGtdAAOY29weSRkZWZhdWx0JDFzcQB+AAx8hNFfdAAFbG9naW5zcQB+AAyOiq5gdAACbmVzcQB+AAzzgR5bdAACZXFzcQB+AAxGlaG9dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMjRaGpXQAAiMjc3EAfgAMlD3Xs3QACGZpbmFsaXplc3EAfgAMEC8A3HQADnByb2R1Y3RFbGVtZW50c3EAfgAMFH7vNHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAA3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AWXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQACm1vY2tzLlVzZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AcXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBZTAAJaW5oZXJpdGVkcQB+AFlMAAdwYXJlbnRzcQB+AFl4cQB+AHZzcQB+AHF1cQB+AFQAAAAAc3EAfgBxdXEAfgBUAAAAAHNxAH4AcXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AdXQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AdXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Aj3NxAH4AgnEAfgCFc3EAfgCGc3EAfgCJdXEAfgCMAAAAA3NxAH4AjnQABGphdmFzcQB+AI50AAJpb3EAfgCTc3EAfgCCdAAHUHJvZHVjdHEAfgCIc3EAfgCCdAAGRXF1YWxzcQB+AIhzcQB+AIJ0AAZPYmplY3RzcQB+AIZzcQB+AIl1cQB+AIwAAAADc3EAfgCOcQB+AJlzcQB+AI50AARsYW5ncQB+AJNzcQB+AIJ0AANBbnlxAH4AiHNxAH4AVnEAfgBjdXEAfgBkAAAAAHNxAH4AZgF0ABJtb2Nrcy5Mb2dpblNlcnZpY2V1cQB+AGkAAAAAfnEAfgBrdAAFVHJhaXR1cQB+AG8AAAAAc3EAfgBxcQB+AHdzcQB+AHFzcQB+AHlzcQB+AHF1cQB+AFQAAAAAc3EAfgBxdXEAfgBUAAAAAHNxAH4AcXVxAH4AgAAAAAJzcQB+AIJxAH4AoXNxAH4AhnNxAH4AiXVxAH4AjAAAAANzcQB+AI5xAH4AmXNxAH4AjnEAfgCncQB+AJNzcQB+AIJxAH4AqXNxAH4AhnNxAH4AiXVxAH4AjAAAAAJzcQB+AI5xAH4AkXEAfgCTc3EAfgBWcQB+AGN1cQB+AGQAAAAAc3EAfgBmAHQAFm1vY2tzLlJlYWxMb2dpblNlcnZpY2V1cQB+AGkAAAAAcQB+AG11cQB+AG8AAAAAc3EAfgBxcQB+AHdzcQB+AHFzcQB+AHlzcQB+AHF1cQB+AFQAAAAAc3EAfgBxdXEAfgBUAAAAAHNxAH4AcXVxAH4AgAAAAANzcQB+AIJ0AAxMb2dpblNlcnZpY2VzcQB+AIZzcQB+AIl1cQB+AIwAAAACc3EAfgCOdAAFbW9ja3NxAH4Ak3NxAH4AgnEAfgChc3EAfgCGc3EAfgCJdXEAfgCMAAAAA3NxAH4AjnEAfgCZc3EAfgCOcQB+AKdxAH4Ak3NxAH4AgnEAfgCpc3EAfgCGc3EAfgCJdXEAfgCMAAAAAnNxAH4AjnEAfgCRcQB+AJN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAVtb2Nrc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXq9HEZZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABTQzpcVXNlcnNcTENhd3Rob3JuZVxEb3dubG9hZHNcc2NhbGFcc2NhbGF0ZXN0LWFhLWV4YW1wbGVzXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQTRvVfRQWbkDD1eTPt7OJWRXmTQw==
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwzwGjvgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw3UfTG3QABm5vdGlmeXNxAH4ADNU+ChB0AAR3YWl0c3EAfgAMr+Or9HQADSRhc0luc3RhbmNlT2ZzcQB+AAwSet7CdAAFUGl6emFzcQB+AAwUuJZ9dAAGZXF1YWxzc3EAfgAMroQpi3QADGFzSW5zdGFuY2VPZnNxAH4ADPUuxkF0AAxzeW5jaHJvbml6ZWRzcQB+AAzuu0audAANJGlzSW5zdGFuY2VPZnNxAH4ADCIHXRR0AAlub3RpZnlBbGxzcQB+AAyhRu6edAAMaXNJbnN0YW5jZU9mc3EAfgAMrTgAV3QABjxpbml0PnNxAH4ADPkQ0bx0AAI9PXNxAH4ADClxoJB0AAVjbG9uZXNxAH4ADD/CU/B0AA1yZW1vdmVUb3BwaW5nc3EAfgAMkYftbXQACHRvU3RyaW5nc3EAfgAMikYtxHQABGJvb21zcQB+AAz3twT/dAACIT1zcQB+AAxT5rKpdAAKYWRkVG9wcGluZ3NxAH4ADODtYuh0AAhnZXRDbGFzc3NxAH4ADEVyDc10AAJuZXNxAH4ADN+zk6h0AAtnZXRUb3BwaW5nc3NxAH4ADG3ykih0AAJlcXNxAH4ADNF7QXZ0AAIjI3NxAH4ADIqHzE50AAhmaW5hbGl6ZXNxAH4ADD5BaYx0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AAtwaXp6YS5QaXp6YXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBhc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AZnNxAH4AYXVxAH4ARAAAAABzcQB+AGF1cQB+AEQAAAAAc3EAfgBhdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBldAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBlc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB+dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB/c3EAfgBydAADQW55c3EAfgB2c3EAfgB5dXEAfgB8AAAAAnNxAH4AfnQABXNjYWxhcQB+AIV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAVwaXp6YXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXq9HEZZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABTQzpcVXNlcnNcTENhd3Rob3JuZVxEb3dubG9hZHNcc2NhbGFcc2NhbGF0ZXN0LWFhLWV4YW1wbGVzXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQbaKqMyvg0NuUxHQ1eOwDCO5cnow==
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwrotVWwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAec3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwtAc1w3QABm5vdGlmeXNxAH4ADHYkO9d0AARuYW1lc3EAfgAMy8oWxXQAB1RvcHBpbmdzcQB+AAy4GCuqdAAEd2FpdHNxAH4ADMKn9IR0AA0kYXNJbnN0YW5jZU9mc3EAfgAM6ivh1HQADHByb2R1Y3RBcml0eXNxAH4ADPPDdF10AAZlcXVhbHNzcQB+AAz1j9OJdAAMYXNJbnN0YW5jZU9mc3EAfgAM2UVZv3QADHN5bmNocm9uaXplZHNxAH4ADIKKuVh0AA0kaXNJbnN0YW5jZU9mc3EAfgAMzFXBbHQACGNhbkVxdWFsc3EAfgAMlsuaYHQADXByb2R1Y3RQcmVmaXhzcQB+AAyPfVzJdAAJbm90aWZ5QWxsc3EAfgAM07hInHQADGlzSW5zdGFuY2VPZnNxAH4ADITYv510AAY8aW5pdD5zcQB+AAzO7FvqdAACPT1zcQB+AAytmdw0dAAFY2xvbmVzcQB+AAzOz5yrdAAGJGluaXQkc3EAfgAMH42jvHQABGNvcHlzcQB+AAzv+qEsdAAIdG9TdHJpbmdzcQB+AAyGs823dAACIT1zcQB+AAz2MtghdAAIZ2V0Q2xhc3NzcQB+AAyHLCqKdAAOY29weSRkZWZhdWx0JDFzcQB+AAxawUK2dAACbmVzcQB+AAy4YREcdAACZXFzcQB+AAyh6A7KdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMXcZefXQAAiMjc3EAfgAMXaHQMXQACGZpbmFsaXplc3EAfgAMXvK2fXQADnByb2R1Y3RFbGVtZW50c3EAfgAMA2b5YXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AU3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADXBpenphLlRvcHBpbmd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Aa3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBTTAAJaW5oZXJpdGVkcQB+AFNMAAdwYXJlbnRzcQB+AFN4cQB+AHBzcQB+AGt1cQB+AE4AAAAAc3EAfgBrdXEAfgBOAAAAAHNxAH4Aa3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ab3QADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ab3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AiXNxAH4AfHEAfgB/c3EAfgCAc3EAfgCDdXEAfgCGAAAAA3NxAH4AiHQABGphdmFzcQB+AIh0AAJpb3EAfgCNc3EAfgB8dAAHUHJvZHVjdHEAfgCCc3EAfgB8dAAGRXF1YWxzcQB+AIJzcQB+AHx0AAZPYmplY3RzcQB+AIBzcQB+AIN1cQB+AIYAAAADc3EAfgCIcQB+AJNzcQB+AIh0AARsYW5ncQB+AI1zcQB+AHx0AANBbnlxAH4AgnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABXBpenphc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFer0cRlnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFNDOlxVc2Vyc1xMQ2F3dGhvcm5lXERvd25sb2Fkc1xzY2FsYVxzY2FsYXRlc3QtYWEtZXhhbXBsZXNcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFsWHvC0pwl6Isp4ZuYrOl4u2F5L
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwkAtGiwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw12IXL3QABm5vdGlmeXNxAH4ADN5cWYJ0AAR3YWl0c3EAfgAMly6L+HQADSRhc0luc3RhbmNlT2ZzcQB+AAwdWR4PdAAGZXF1YWxzc3EAfgAMJ6TsRHQADGFzSW5zdGFuY2VPZnNxAH4ADBUj4Rl0AAxzeW5jaHJvbml6ZWRzcQB+AAwpez5GdAANJGlzSW5zdGFuY2VPZnNxAH4ADDRrv/B0AAlub3RpZnlBbGxzcQB+AAz2rua0dAAMaXNJbnN0YW5jZU9mc3EAfgAMVUCp6HQAAj09c3EAfgAMALcRu3QABWNsb25lc3EAfgAMhNSycXQACUxpc3RVdGlsc3NxAH4ADEmE5Yt0AAh0b1N0cmluZ3NxAH4ADGrvaah0AAIhPXNxAH4ADH0rVN50AAhnZXRDbGFzc3NxAH4ADCv0pQF0AAJuZXNxAH4ADBoWXFJ0AA5kcm9wRmlyc3RNYXRjaHNxAH4ADPboXP90AA9kcm9wQWxsQnV0Rmlyc3RzcQB+AAz74aTqdAACZXFzcQB+AAwwXaQEdAACIyNzcQB+AAwr46+pdAAIZmluYWxpemVzcQB+AAxVMgu3dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAScHJvcGVydHkuTGlzdFV0aWxzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBbc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AYHNxAH4AW3VxAH4APgAAAABzcQB+AFt1cQB+AD4AAAAAc3EAfgBbdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBfdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB4dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5c3EAfgBsdAADQW55c3EAfgBwc3EAfgBzdXEAfgB2AAAAAnNxAH4AeHQABXNjYWxhcQB+AH91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAhwcm9wZXJ0eXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXq9Xlw91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABTQzpcVXNlcnNcTENhd3Rob3JuZVxEb3dubG9hZHNcc2NhbGFcc2NhbGF0ZXN0LWFhLWV4YW1wbGVzXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT9eskgYs2fM+c4JJQye4L9uUbRjw==
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwg81mhgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwe4mNlHQABm5vdGlmeXNxAH4ADBQL94p0AAR3YWl0c3EAfgAMqqiRFHQADSRhc0luc3RhbmNlT2ZzcQB+AAzgZV/zdAAGZXF1YWxzc3EAfgAM9JKQ5HQADGFzSW5zdGFuY2VPZnNxAH4ADHsOpzd0AAxzeW5jaHJvbml6ZWRzcQB+AAwjxh5WdAANJGlzSW5zdGFuY2VPZnNxAH4ADL6dXPJ0AAlub3RpZnlBbGxzcQB+AAxK2xxpdAAMaXNJbnN0YW5jZU9mc3EAfgAMRaMac3QAAj09c3EAfgAMhnfxAHQABWNsb25lc3EAfgAMCYm383QAEGluY3JlYXNlUmFuZG9tbHlzcQB+AAxV77n0dAAIdG9TdHJpbmdzcQB+AAwtuQyIdAACIT1zcQB+AAzINyRSdAAIZ2V0Q2xhc3NzcQB+AAyDTItUdAACbmVzcQB+AAwEu3c2dAACZXFzcQB+AAxZbV7+dAACIyNzcQB+AAzQ4xrIdAAIZmluYWxpemVzcQB+AAyGoubkdAAJTWF0aFV0aWxzc3EAfgAMbw2af3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAEnByb3BlcnR5Lk1hdGhVdGlsc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF5zcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AdnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ad3NxAH4AanQAA0FueXNxAH4AbnNxAH4AcXVxAH4AdAAAAAJzcQB+AHZ0AAVzY2FsYXEAfgB9dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAIcHJvcGVydHlzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV6vV5cPdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAU0M6XFVzZXJzXExDYXd0aG9ybmVcRG93bmxvYWRzXHNjYWxhXHNjYWxhdGVzdC1hYS1leGFtcGxlc1x0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU5QoQfIeDoopiTTRfOOStOv1dzOc=
+external apis:
+0 items
+source infos:
+6 items
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\example\Hello.scala -> 
+AAAAAAAAAAA=
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\mocks\LoginService.scala -> 
+AAAAAAAAAAA=
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Pizza.scala -> 
+AAAAAAAAAAA=
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\pizza\Topping.scala -> 
+AAAAAAAAAAA=
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\ListUtils.scala -> 
+AAAAAAAAAAA=
+C:\Users\LCawthorne\Downloads\scala\scalatest-aa-examples\src\main\scala\property\MathUtils.scala -> 
+AAAAAAAAAAA=
+compilations:
+5 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXqT38EF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUEM6XFVzZXJzXExDYXd0aG9ybmVcRG93bmxvYWRzXHNjYWxhXHNjYWxhLXNlZWQtcHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXqT/d+Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUEM6XFVzZXJzXExDYXd0aG9ybmVcRG93bmxvYWRzXHNjYWxhXHNjYWxhLXNlZWQtcHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXqVtbqd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUEM6XFVzZXJzXExDYXd0aG9ybmVcRG93bmxvYWRzXHNjYWxhXHNjYWxhLXNlZWQtcHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXq9HEZZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAU0M6XFVzZXJzXExDYXd0aG9ybmVcRG93bmxvYWRzXHNjYWxhXHNjYWxhdGVzdC1hYS1leGFtcGxlc1x0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXq9Xlw91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAU0M6XFVzZXJzXExDYXd0aG9ybmVcRG93bmxvYWRzXHNjYWxhXHNjYWxhdGVzdC1hYS1leGFtcGxlc1x0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
